@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import profileImg from '../assets/profile.svg'
+import profileImg from '../assets/profile.jpg'
 import { PROFILE } from '../data.js'
 import Section from './Section.jsx'
 import { fadeUp, stagger } from './motion.js'
