@@ -30,7 +30,7 @@ import certDSA from "./assets/certificates/dsa-internship.png";
 
 export const PROFILE = {
   name: "Ayush Ranjan",
-  title: "Full Stack Web Developer",
+  title: " Stack Web Developer",
   tagline: "I build fast, accessible, and delightful web experiences.",
   objective:
     "Seeking software engineering opportunities where I can ship impactful products, learn fast, and contribute to a high-performing team.",
