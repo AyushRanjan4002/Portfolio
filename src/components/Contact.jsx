@@ -17,11 +17,11 @@ export default function Contact() {
   const canSend = Boolean(serviceId && templateId && publicKey);
 
   const portfolioEmail = useMemo(
-    () => getEnv("VITE_PORTFOLIO_EMAIL") || "priyanshut1885@gmail.com",
+    () => getEnv("VITE_PORTFOLIO_EMAIL") || "ayushranjan1238@gmail.com",
     [],
   );
   const portfolioLocation = useMemo(
-    () => getEnv("VITE_PORTFOLIO_LOCATION") || "Palampur, India",
+    () => getEnv("VITE_PORTFOLIO_LOCATION") || "Shillong, Meghalaya, India",
     [],
   );
 
@@ -205,7 +205,7 @@ export default function Contact() {
             <div className="mt-6 grid grid-cols-2 gap-3">
               <a
                 className="inline-flex items-center justify-center gap-2 rounded-2xl bg-white/5 px-4 py-3 text-sm font-semibold text-white ring-1 ring-white/10 transition hover:bg-white/10"
-                href="https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/"
+                href="https://www.linkedin.com/in/ayush-ranjan-230b80288/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -214,7 +214,7 @@ export default function Contact() {
               </a>
               <a
                 className="inline-flex items-center justify-center gap-2 rounded-2xl bg-white/5 px-4 py-3 text-sm font-semibold text-white ring-1 ring-white/10 transition hover:bg-white/10"
-                href="https://github.com/priyanshu-thakur1885"
+                href="https://github.com/AyushRanjan4002"
                 target="_blank"
                 rel="noreferrer"
               >

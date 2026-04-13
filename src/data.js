@@ -24,9 +24,9 @@ import {
 import project1 from "./assets/project-1.png";
 import project2 from "./assets/project-2.png";
 import project3 from "./assets/project-3.svg";
-import certCloud from "./assets/certificates/cloud-computing.png";
-import certAI from "./assets/certificates/generative-ai.png";
-import certDSA from "./assets/certificates/dsa-internship.png";
+import certIBM from "./assets/certificates/introduction-to-project-management.png";
+import certFreeCodeCamp from "./assets/certificates/responsive-web-design.png";
+import certGoogleCloud from "./assets/certificates/generative-ai-tools.png";
 
 export const PROFILE = {
   name: "Ayush Ranjan",
@@ -152,7 +152,7 @@ export const EDUCATION = [
   },
   {
     title: "Higher Secondary",
-    place: "Aadharshila Sr Sec School, Palampur",
+    place: "BSF  Higher Secondary School, Shillong",
     year: "2022 — 2023",
     detail:
       "Completed 12th grade with Mathematics and Computer Science, developing strong analytical skills and early interest in programming and technology.",
@@ -199,24 +199,24 @@ export const ACHIEVEMENTS = [
 
 export const CERTIFICATES = [
   {
-    title: "Cloud Computing",
-    issuer: "NPTEL",
+    title: "Introduction to Project Management",
+    issuer: "IBM",
     year: "2025",
-    link: "https://drive.google.com/file/d/1_3Z0u4RbJ7xqJWuBxTVBkyIcbA76RVvT/view?usp=sharing",
-    image: certCloud,
+    link: "https://drive.google.com/file/d/1dXOF0J9j0xSlH9icznX_2xU6DHYvTG0H/view?usp=drive_link",
+    image: certIBM,
   },
   {
-    title: "Master Generative AI & Generative AI Tools",
-    issuer: "Infosys",
+    title: "Responsive Web Design",
+    issuer: "FreeCodeCamp",
     year: "2025",
-    link: "https://drive.google.com/file/d/1ZegRoDrIZKBrR8c4H7-FYgyWrsvsi6ze/view",
-    image: certAI,
+    link: "https://drive.google.com/file/d/1nhUCMgCxiTARA4NPS28kfv38YgZroc7g/view?usp=drive_link",
+    image: certFreeCodeCamp,
   },
   {
-    title: " Live Internship in Data Structures & Algorithms",
-    issuer: "Techvanto Academy",
+    title: "Generative AI Tools",
+    issuer: "Google Cloud",
     year: "2025",
-    link: "https://drive.google.com/file/d/1ywkZ62msm4_4lam_APTQ3Khkp96fX2JD/view?usp=drive_link",
-    image: certDSA,
+    link: "https://drive.google.com/file/d/18x6v6fimWZQrKD5Ahhij7xcx9RRFk3NI/view?usp=drive_link",
+    image: certGoogleCloud,
   },
 ];
