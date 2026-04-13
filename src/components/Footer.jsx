@@ -18,7 +18,7 @@ export default function Footer() {
             <div className="mt-2 flex items-center gap-3">
               <a
                 className="group inline-flex h-11 w-11 items-center justify-center rounded-2xl bg-white/5 ring-1 ring-white/10 transition hover:bg-white/10"
-                href="https://github.com/priyanshu-thakur1885"
+                href="https://github.com/AyushRanjan4002"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="GitHub"
