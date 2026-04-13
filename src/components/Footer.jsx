@@ -36,7 +36,7 @@ export default function Footer() {
               </a>
               <a
                 className="group inline-flex h-11 w-11 items-center justify-center rounded-2xl bg-white/5 ring-1 ring-white/10 transition hover:bg-white/10"
-                href="priyanshut1885@gmail.com"
+                href="ayushranjan1238@gmail.com"
                 aria-label="Email"
               >
                 <HiOutlineMail className="text-2xl text-zinc-100 transition group-hover:scale-110" />
@@ -57,7 +57,7 @@ export default function Footer() {
 
         <div className="mt-8 flex flex-col gap-2 border-t border-white/10 pt-6 text-xs text-zinc-400 sm:flex-row sm:items-center sm:justify-between">
           <span>
-            © {new Date().getFullYear()} Priyanshu Thakur. All rights reserved.
+            © {new Date().getFullYear()} Ayush Ranjan. All rights reserved.
           </span>
           <span>Built with React • Tailwind • Framer Motion</span>
         </div>
