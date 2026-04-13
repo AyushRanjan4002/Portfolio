@@ -29,7 +29,7 @@ import certAI from "./assets/certificates/generative-ai.png";
 import certDSA from "./assets/certificates/dsa-internship.png";
 
 export const PROFILE = {
-  name: "Priyanshu Thakur",
+  name: "Ayush Ranjan",
   title: "Full Stack Web Developer",
   tagline: "I build fast, accessible, and delightful web experiences.",
   objective:
