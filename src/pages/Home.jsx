@@ -10,6 +10,9 @@ import Certificates from '../components/Certificates.jsx'
 import Resume from '../components/Resume.jsx'
 import Contact from '../components/Contact.jsx'
 import Footer from '../components/Footer.jsx'
+import profileImg from "../assets/profile.jpg";
+
+
 
 export default function Home() {
   return (
