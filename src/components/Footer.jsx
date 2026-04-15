@@ -27,7 +27,7 @@ export default function Footer() {
               </a>
               <a
                 className="group inline-flex h-11 w-11 items-center justify-center rounded-2xl bg-white/5 ring-1 ring-white/10 transition hover:bg-white/10"
-                href="https://www.linkedin.com/in/priyanshu-thakur-71a4652aa/"
+                href="https://www.linkedin.com/in/ayush-ranjan-230b80288/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn"
